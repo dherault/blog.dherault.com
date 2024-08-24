@@ -3,6 +3,8 @@ import tailwind from "@astrojs/tailwind";
 import sitemap from "@astrojs/sitemap";
 import mdx from "@astrojs/mdx";
 
+import preact from "@astrojs/preact";
+
 // https://astro.build/config
 export default defineConfig({
   markdown: {
@@ -16,6 +18,6 @@ export default defineConfig({
     skipInline: false,
     drafts: true
   },
-  site: 'https://lexingtonthemes.com',
-  integrations: [tailwind(), sitemap(), mdx()]
+  site: 'https://blog.dherault.com',
+  integrations: [tailwind(), sitemap(), mdx(), preact()]
 });
