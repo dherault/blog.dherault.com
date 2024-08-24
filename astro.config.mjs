@@ -19,5 +19,5 @@ export default defineConfig({
     drafts: true
   },
   site: 'https://blog.dherault.com',
-  integrations: [tailwind(), sitemap(), mdx(), preact()]
+  integrations: [tailwind(), sitemap(), mdx()]
 });
