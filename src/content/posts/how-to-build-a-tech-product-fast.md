@@ -1,5 +1,5 @@
 ---
-pubDate: 2024-08-24
+pubDate: 2024-08-23
 author: David Hérault
 title: How to build a tech product fast
 description: "If you read only this line, here is the pitch: you don’t care about the tech stack or architecture yet, choose whatever tech allows you to iterate faster."
