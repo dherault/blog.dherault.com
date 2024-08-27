@@ -13,7 +13,7 @@ I recently went on a personal journey of growth and discipline. Here is my story
 
 ## Sins and vice
 
-I used to smoke and vape, eat too much (I had what I called a “fat belly”), not exercise and overall tend to sin every single day. Not in the religious sense but in the everyday, insidious and relentless sense. This is hard to write because it was a time when I was underachieving and not productive enough. I did not know where to start to get my life straight, so I went radical.
+I used to smoke and vape, eat too much - I had what I called a “fat belly”, not exercise and overall tend to sin every single day. Not in the religious sense but in the everyday, insidious and relentless sense. This is hard to write because it was a time when I was underachieving and not productive enough. I did not know where to start to get my life straight, so I went radical.
 
 ## Radical changes
 
