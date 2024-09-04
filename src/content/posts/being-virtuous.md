@@ -2,7 +2,7 @@
 pubDate: 2024-09-04
 author: David Hérault
 title: Being virtuous
-description: "I recently eliminated every vice from my life"
+description: "I recently eliminated every vice from my life. Here is how it went."
 image:
   url: "/images/virtuous.webp"
   alt: "#"
