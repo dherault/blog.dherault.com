@@ -1,7 +1,7 @@
 ---
 pubDate: 2025-01-02
 author: David Hérault
-title: Airfriend
+title: Building Airfriend
 description: "Foo"
 image:
   url: "/images/airfriend.webp"
