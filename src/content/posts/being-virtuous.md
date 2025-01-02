@@ -9,7 +9,7 @@ image:
 tags: ["Self", "Growth", "Virtue", "Personal"]
 ---
 
-I recently eliminated every vice from my life. Smoking, drinking, masturbating, video games, sugar and over-eating are gone for good. I would never see myself doing those things again, because by eliminating them I found something far too precious to discard. I found my virtue.
+I recently eliminated every vice from my life. Smoking, drinking, video games, sugar and over-eating are gone for good. I would never see myself doing those things again, because by eliminating them I found something far too precious to discard. I found my virtue.
 
 ## About gluttony and sloth
 
