@@ -2,7 +2,7 @@
 pubDate: 2025-01-02
 author: David Hérault
 title: Building Airfriend
-description: "Foo"
+description: "Airfriend is a AI on WhatsApp. Here is how it has been built."
 image:
   url: "/images/airfriend.webp"
   alt: "Chatting on phone"

@@ -2,7 +2,7 @@
 pubDate: 2024-12-26
 author: David Hérault
 title: Being virtuous, part 2
-description: "It has been half a year of virtue. I loved it all the way"
+description: "It has been half a year of virtue. I loved it all the way."
 image:
   url: "/images/virtuous-2.jpeg"
   alt: "Angel"
