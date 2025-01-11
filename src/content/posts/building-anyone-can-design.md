@@ -1,7 +1,7 @@
 ---
 pubDate: 2025-01-08
 author: David Hérault
-title: Building Anyone Can Design
+title: Building Anyone Can Design - 1
 description: "My first serious project released to the world."
 image:
   url: "/images/building-anyone-can-design.webp"
@@ -9,4 +9,8 @@ image:
 tags: ["Entrepreneurship", "Serious project", "Tech", "Building"]
 ---
 
-Foo
+## The intent: giving everyone what I do best
+
+## The design challenge
+
+## The ambition
