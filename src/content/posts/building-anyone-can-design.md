@@ -1,7 +1,7 @@
 ---
 pubDate: 2025-01-13
 author: David Hérault
-title: Building Anyone Can Design - 1
+title: Building Anyone Can Design
 description: "My first serious project released to the world."
 image:
   url: "/images/building-anyone-can-design.webp"
