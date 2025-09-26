@@ -4,7 +4,7 @@ author: David Hérault
 title: Building Airfriend
 description: "Airfriend is a AI on WhatsApp. Here is how it has been built."
 image:
-  url: "/images/airfriend.webp"
+  url: "/images/airfriend.png"
   alt: "Chatting on phone"
 tags: ["Side project", "Tech", "React", "Building", "Frontend"]
 ---

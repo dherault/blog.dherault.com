@@ -4,7 +4,7 @@ author: David Hérault
 title: Being virtuous, part 2
 description: "It has been half a year of virtue. I loved it all the way."
 image:
-  url: "/images/virtuous-2.jpeg"
+  url: "/images/virtuous-2.png"
   alt: "Angel"
 tags: ["Self", "Growth", "Virtue", "Personal"]
 ---

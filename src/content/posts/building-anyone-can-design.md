@@ -4,7 +4,7 @@ author: David Hérault
 title: Building Anyone Can Design
 description: "My first serious project released to the world."
 image:
-  url: "/images/building-anyone-can-design.webp"
+  url: "/images/building-anyone-can-design.png"
   alt: "Futuristic landscape"
 tags: ["Entrepreneurship", "Serious project", "Tech", "Building"]
 ---

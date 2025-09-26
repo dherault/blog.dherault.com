@@ -1,7 +1,7 @@
 ---
 pubDate: 2024-08-24
 author: David Hérault
-title: Building Arccode.dev
+title: Building Arccode
 description: "It took me 15 days to build Arccode.dev, here is how I did it."
 image:
   url: "/images/arccode.png"
